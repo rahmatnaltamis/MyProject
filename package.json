@@ -1,7 +1,4 @@
-{
-  "main": "server.js",
-  "scripts": {
-    "start": "server.js"
-  }
+"main": "server.js",
+"scripts": {
+  "start": "node server.js"
 }
-
